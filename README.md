@@ -12,7 +12,7 @@
 
 如果下载项目源码可以自行在项目设置的 **Input** 中查看。
 
-![操作界面](/MDSource/ControlUI1.jpg)
+![操作界面](./MDSource/ControlUI1.jpg)
 
 # 相关资料
 
