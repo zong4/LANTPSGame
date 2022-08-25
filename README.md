@@ -16,6 +16,8 @@
 
 <img src="https://zong4.github.io/img/LANTPSGame/ControlUI1.jpg" width="700px" title="操作界面">
 
+![操作界面](/MDSource/ControlUI1.jpg)
+
 所有按键均需滑动触发（ **Joysticks** 特性）。
 
 左半边分别为返回，积分板，开门（门前才有用），人物移动摇杆（从上到下，从左到右）。
