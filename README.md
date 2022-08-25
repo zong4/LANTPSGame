@@ -43,8 +43,8 @@
 
 # 代码结构
 
-                LANTPSGame\Content\Assets\GMGame\Maps\
-                        dad
+LANTPSGame\Content\Assets\GMGame\Maps\
+        dad
 
 # 相关资料
 
