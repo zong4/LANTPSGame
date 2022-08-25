@@ -16,6 +16,7 @@
 
 <img src="https://zong4.github.io/img/LANTPSGame/ControlUI1.jpg" width="700px" title="操作界面">
 
+所有按键均需滑动触发（ **Joysticks** 特性）。
 
 # TODO List
 
