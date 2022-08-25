@@ -44,7 +44,7 @@
 # 代码结构
 
         LANTPSGame\Content\Assets\GMGame\Maps\
-                dad
+        dad
 
 # 相关资料
 
