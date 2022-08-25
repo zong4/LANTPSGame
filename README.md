@@ -1,6 +1,6 @@
 # 使用指南
 
-源代码中有一个地图文件由于体积过大，所以放在了 **Release** 的 **AddFiles** 中。
+源代码中有一个地图文件由于体积过大，所以放在了 **Release** 的 **AddFile** 中，需要下载并解压到 **LANTPSGame\Content\Assets\GMGame\Maps\** 目录中。
 
 安卓的 **.apk** 文件在 **Release** 里，可以根绝相应的版本号下载安装。
 
