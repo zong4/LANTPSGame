@@ -45,7 +45,9 @@
 
 **Content** 中除了 **Asserts** ，其他均来自 **UE** 现有的资源。
 
-**Asserts** 存放游戏中的人物，地图等文件（ **GMGame** ），
+**Asserts** 存放游戏中调用的人物、地图、武器等文件（ **GMGame** ），大厅中调用的人物、地图、 **UI** 等文件（ **GMLobby** ），全局的控制文件，如 **GameMode** 、 **PlayerController** 、 **GameInstance** （ **Gameplayer** ）。
+
+（大厅和游戏中用不同的人物可以保证大厅的独立性，下次复用方便，所以游戏的键位在大厅中不能使用）。
 
 # 相关资料
 
