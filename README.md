@@ -41,6 +41,11 @@
 - [x] 移植到安卓
 - [ ] 完善动画细节
 
+# 代码结构
+
+                LANTPSGame\Content\Assets\GMGame\Maps\
+                        dad
+
 # 相关资料
 
 ## [博客文章](https://zong4.github.io/2022/08/03/22FPSGame/)
