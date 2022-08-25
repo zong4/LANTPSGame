@@ -10,7 +10,7 @@
 
 # 操作玩法
 
-## 电脑端
+## Windows
 
 * 左 **Ctrl**   ：下蹲
 * 左 **Alt**    ：静步
@@ -23,7 +23,7 @@
 
 其他按键均与常规 **FPS** 游戏相同。
 
-## 安卓端
+## Android
 
 ![操作界面](/MDSource/ControlUI1.jpg)
 
