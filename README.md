@@ -43,8 +43,9 @@
 
 # 代码结构
 
-        LANTPSGame\Content\Assets\GMGame\Maps\
-        dad
+**Content** 中除了 **Asserts** ，其他均来自 **UE** 现有的资源。
+
+**Asserts** 中分为 **GMGame，GMLobby
 
 # 相关资料
 
