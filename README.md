@@ -14,8 +14,6 @@
 
 如果使用 **Apk** 游玩，操作界面如下。
 
-<img src="https://zong4.github.io/img/LANTPSGame/ControlUI1.jpg" width="700px" title="操作界面">
-
 ![操作界面](/MDSource/ControlUI1.jpg)
 
 所有按键均需滑动触发（ **Joysticks** 特性）。
