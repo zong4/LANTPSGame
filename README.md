@@ -1,12 +1,18 @@
 # 使用指南
 
-1.源代码中有一个地图文件由于体积过大，所以放在了 **Release** 的 **AddFile** 中，需要下载并解压到如下目录中。
+1. 源代码中有一个地图文件由于体积过大，所以放在了 **Release** 的 **AddFile** 中，需要下载并解压到如下目录中。
 
     LANTPSGame\Content\Assets\GMGame\Maps\
 
-2.安卓的 **.apk** 文件在 **Release** 里，可以根绝相应的版本号下载安装。
+2. 安卓的 **.apk** 文件在 **Release** 里，可以根绝相应的版本号下载安装。
 
-3.目前没有打包其他平台的安装包，如有需要可以自行打包，记得修改输入里的 **Joysticks** 。
+3. 目前没有打包其他平台的安装包，如有需要可以自行打包，记得修改 **Input** 里的 **Joysticks** 。
+
+# 玩法
+
+如果下载项目源码可以自行在项目设置的 **Input** 中查看。
+
+<img src="https://github.com/zong4/zong4.github.io/blob/main/img/LANTPSGame/ControlUI1.jpg" width="700px" title="操作界面">
 
 # 相关资料
 
