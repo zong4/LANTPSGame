@@ -12,13 +12,10 @@
 
 如果下载项目源码可以自行在项目设置的 **Input** 中查看。
 
+如果使用 **Apk** 游玩，操作界面如下。
+
 <img src="https://zong4.github.io/img/LANTPSGame/ControlUI1.jpg" width="700px" title="操作界面">
 
-# 相关资料
-
-## [文章](https://zong4.github.io/2022/05/22/15SpaceCollider/)
-
-## [视频](https://zong4.github.io/gallery/media/#Space-Collider-Demo)
 
 # TODO List
 
@@ -43,6 +40,13 @@
 实现多种武器。
 完善动画细节。
 移植到安卓。
+
+# 相关资料
+
+## [文章](https://zong4.github.io/2022/05/22/15SpaceCollider/)
+
+## [视频](https://zong4.github.io/gallery/media/#Space-Collider-Demo)
+
 
 # 改进
 
