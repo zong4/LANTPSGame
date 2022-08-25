@@ -45,7 +45,7 @@
 
 **Content** 中除了 **Asserts** ，其他均来自 **UE** 现有的资源。
 
-**Asserts** 中分为 **GMGame，GMLobby
+**Asserts** 存放游戏中的人物，地图等文件（ **GMGame** ），
 
 # 相关资料
 
