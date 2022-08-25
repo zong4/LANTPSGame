@@ -12,7 +12,7 @@
 
 如果下载项目源码可以自行在项目设置的 **Input** 中查看。
 
-<img src="https://zong4.github.io/blob/main/img/LANTPSGame/ControlUI1.jpg" width="700px" title="操作界面">
+<img src="https://zong4.github.io/img/LANTPSGame/ControlUI1.jpg" width="700px" title="操作界面">
 
 # 相关资料
 
