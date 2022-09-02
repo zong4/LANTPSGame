@@ -4,9 +4,9 @@
 
         LANTPSGame\Content\Assets\GMGame\Maps\
 
-2. 安卓的 **.apk** 文件在 **Release** 里，可以根绝相应的版本号下载安装。
+2. [安卓的 **.apk** 文件](https://github.com/zong4/LANTPSGame/releases/tag/Android_v1.0.0)在 **Release** 里，可以根据相应的版本号下载安装。
 
-3. 目前没有打包其他平台的安装包，如有需要可以自行打包，记得修改 **Input** 里的 **Joysticks** 。
+3. [**Windows** 平台](https://github.com/zong4/LANTPSGame/releases/tag/Windows_v1.0.0)也一样。
 
 # 操作玩法
 
