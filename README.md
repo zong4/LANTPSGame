@@ -1,3 +1,9 @@
+# 相关资料
+
+## [博客文章](https://zong4.github.io/2022/08/03/22FPSGame/)
+
+## [部分演示视频](https://zong4.github.io/gallery/media/#LANTPSGame)
+
 # 使用指南
 
 1. 源代码中有一个地图文件由于体积过大，所以放在了 [**Release** 的 **AddFile**](https://github.com/zong4/LANTPSGame/releases/tag/Demonstration_BuiltData.uasset_v1.0.0) 中，需要下载并解压到如下目录中。
@@ -57,12 +63,6 @@
 **Asserts** 存放游戏中调用的人物、地图、武器等文件（ **GMGame** ），大厅中调用的人物、地图、 **UI** 等文件（ **GMLobby** ），全局的控制文件，如 **GameMode** 、 **PlayerController** 、 **GameInstance** （ **Gameplayer** ）。
 
 （大厅和游戏中用不同的人物可以保证大厅的独立性，下次复用方便，所以游戏的键位在大厅中不能使用）。
-
-# 相关资料
-
-## [博客文章](https://zong4.github.io/2022/08/03/22FPSGame/)
-
-## [部分演示视频](https://zong4.github.io/gallery/media/#LANTPSGame)
 
 # 改进
 
