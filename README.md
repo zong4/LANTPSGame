@@ -4,7 +4,7 @@
 
 ## [演示视频](https://zong4.github.io/gallery/media/#LANTPSGame)
 
-<video src="/MDSource/LANTPSGame.mp4" width="800px" height="600px" controls="controls"></video>
+<video src="./MDSource/LANTPSGame.mp4" width="800px" height="600px" controls="controls"></video>
 
 # 使用指南
 
