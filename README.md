@@ -4,7 +4,7 @@
 
 ## 演示视频
 
-[![Bilibili视频](/MDSource/ControlUI1.jpg)](https://www.bilibili.com/video/BV1gt4y177cP/?vd_source=0b6d3684e93bbb6631e1931c0c00f657)
+[![Bilibili视频](/MDSource/LANTPSGame.jpg)](https://www.bilibili.com/video/BV1gt4y177cP/?vd_source=0b6d3684e93bbb6631e1931c0c00f657)
 
 # 使用指南
 
