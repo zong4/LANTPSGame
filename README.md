@@ -6,7 +6,7 @@
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV1gt4y177cP&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_DedSkeZ9xM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![asciicast](https://asciinema.org/a/42383.png)](https://www.bilibili.com/video/BV1gt4y177cP/?vd_source=0b6d3684e93bbb6631e1931c0c00f657)
 
 # 使用指南
 
