@@ -2,7 +2,7 @@
 
 ## [博客文章](https://zong4.github.io/2022/08/03/22FPSGame/)
 
-## [部分演示视频](https://zong4.github.io/gallery/media/#LANTPSGame)
+## [演示视频](https://zong4.github.io/gallery/media/#LANTPSGame)
 
 <video src="/MDSource/LANTPSGame.mp4" width="800px" height="600px" controls="controls"></video>
 
