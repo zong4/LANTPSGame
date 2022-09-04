@@ -2,11 +2,9 @@
 
 ## [博客文章](https://zong4.github.io/2022/08/03/22FPSGame/)
 
-## [演示视频](https://zong4.github.io/gallery/media/#LANTPSGame)
+## 演示视频
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1gt4y177cP&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-[![完整视频](/MDSource/ControlUI1.jpg)](https://www.bilibili.com/video/BV1gt4y177cP/?vd_source=0b6d3684e93bbb6631e1931c0c00f657)
+[![Bilibili视频](/MDSource/ControlUI1.jpg)](https://www.bilibili.com/video/BV1gt4y177cP/?vd_source=0b6d3684e93bbb6631e1931c0c00f657)
 
 # 使用指南
 
