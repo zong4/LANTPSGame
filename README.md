@@ -8,6 +8,8 @@
 
 <video src="./MDSource/LANTPSGame.mp4" width="800px" height="600px" controls="controls"></video>
 
+<video src="https://zong4.top/gallery/media/#LANTPSGame/LANTPSGame.mp4" width="800px" height="600px" controls="controls"></video>
+
 123
 
 # 使用指南
