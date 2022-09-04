@@ -4,7 +4,7 @@
 
 ## [演示视频](https://zong4.github.io/gallery/media/#LANTPSGame)
 
-<iframe src="https://www.bilibili.com/video/BV1gt4y177cP/" scrolling="no" width="800px" height="600px" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="https://www.bilibili.com/video/BV1gt4y177cP/?vd_source=0b6d3684e93bbb6631e1931c0c00f657" scrolling="no" width="800px" height="600px" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 # 使用指南
 
