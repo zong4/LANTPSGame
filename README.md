@@ -6,6 +6,8 @@
 
 <iframe src="https://www.bilibili.com/video/BV1gt4y177cP/?vd_source=0b6d3684e93bbb6631e1931c0c00f657" scrolling="no" width="800px" height="600px" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+<iframe src="https://www.bilibili.com/video/BV1vF411T7NA?spm_id_from=333.999.0.0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="700px" height="500px"> </iframe>
+
 # 使用指南
 
 1. 源代码中有一个地图文件由于体积过大，所以放在了 [**Release** 的 **AddFile**](https://github.com/zong4/LANTPSGame/releases/tag/Demonstration_BuiltData.uasset_v1.0.0) 中，需要下载并解压到如下目录中。
