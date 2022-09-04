@@ -4,6 +4,8 @@
 
 ## [演示视频](https://zong4.github.io/gallery/media/#LANTPSGame)
 
+<iframe src="https://www.bilibili.com/video/BV1gt4y177cP/" scrolling="no" width="800px" height="600px" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 # 使用指南
 
 1. 源代码中有一个地图文件由于体积过大，所以放在了 [**Release** 的 **AddFile**](https://github.com/zong4/LANTPSGame/releases/tag/Demonstration_BuiltData.uasset_v1.0.0) 中，需要下载并解压到如下目录中。
