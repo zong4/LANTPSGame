@@ -1,6 +1,6 @@
 # LAN TPS Game
 
-## [Introduce](http://zzoonng.top/2023/01/07/02TPSGame/)
+## [Introduce](http://zzoonng.top/2025/01/29/TPS游戏开发/)
 
 由于 **Github MD** 现在不支持嵌入视频，所以以下仅是一个链接（点击跳转至 **B** 站），当然也可以在 [**Release**](https://github.com/zong4/LANTPSGame/releases/tag/Media_v1.0.0) 中下载该视频。
 
